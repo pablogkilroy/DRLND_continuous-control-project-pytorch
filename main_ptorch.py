@@ -15,7 +15,7 @@ print(fileDir)
 
 # Directory with files for Unity
 
-filename = fileDir.replace("\DRLND_continuous-control project-pytorch","\python")
+filename = fileDir.replace("\DRLND_continuous-control project-pytorch","\DRLND_continuous-control project-pytorch\python")
 
 print('file',filename)
 
